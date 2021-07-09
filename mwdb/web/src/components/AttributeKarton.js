@@ -225,7 +225,7 @@ export function FirstAnalysisBanner(props) {
             <button
                 type="button"
                 disabled={submitted}
-                className="btn-xs btn-primary float-right"
+                className="btn btn-xs btn-primary float-right"
                 onClick={analyze}
             >
                 Analyze!
